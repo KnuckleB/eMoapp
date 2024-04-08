@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eMoapp</string>
+    <string name="title_activity_layout">Layout</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_woof">WoofActivity</string>
+    <string name="title_activity_first_screen">FirstScreenActivity</string>
+    <string name="title_activity_splash">eMoapp</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_pay">PayActivity</string>
+    <string name="title_activity_chairs">ChairsActivity</string>
+</resources>
